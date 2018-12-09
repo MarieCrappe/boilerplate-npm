@@ -1,11 +1,13 @@
 {
 	"author": "Marie Crappe",
 	"name": "fcc-learn-npm-package-json",
-        "description": "A project that does something awesome",
+        "description": "A project that does something awesome. App is available at https://amazing-ocarina.glitch.me",
 	"keywords": [ "freecodecamp", "training", "code" ],
         "license": "MIT",
+        "version": "0.1",
         "dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+                "moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
